@@ -1,7 +1,7 @@
 I am a network consultant and a full stack developer.  I like to involve myself in emerging technologies and ideas that elevate humanity.
 * Read my notes at http://dittoip.com
 * Send me ideas for collaboration at hle@dittoi.com
----
+```
 !!!1.0 To begin building this website, I registered dittoip.com at [[Cloudflare Registrar|https://www.cloudflare.com/products/registrar/]].
 !!!2.0 Setup Ubuntu Server 24.04 minimal.
 *2.1 Login and verify Ubuntu version:
@@ -142,3 +142,4 @@ server {
 *`:~$ sudo certbot --nginx`
 !!!18.0 Start this website so that only editor1 and editor2 have editing privileges:
 *`:$ /usr/local/bin/tiddlywiki /home/ditto/dittoip --listen credentials=users.csv "readers=(anon)" "writers=(authenticated)"`
+```
