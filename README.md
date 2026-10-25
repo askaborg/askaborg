@@ -1,4 +1,4 @@
-__1.0__ To begin building this website, I registered dittoip.com at [[Cloudflare Registrar|https://www.cloudflare.com/products/registrar/]].  
+__1.0__ To begin building this website, I registered dittoip.com at https://www.cloudflare.com/products/registrar/.  
 __2.0__ Setup Ubuntu Server 24.04 minimal.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__2.1__ Login and verify Ubuntu version:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`:~$ more /etc/issue`  
