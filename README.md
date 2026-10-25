@@ -19,7 +19,7 @@ __3.1__ Verify that user ditto exists:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`uid=1002(ditto) gid=1002(ditto) groups=1002(ditto),100(users)`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__3.2__ Add ditto to the sudo group then verify:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`:~$ sudo usermod -aG sudo ditto`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`:~$ id ditto  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`:~$ id ditto`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`uid=1002(ditto) gid=1002(ditto) groups=1002(ditto),27(sudo),100(users)`  
 
 
